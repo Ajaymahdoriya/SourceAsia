@@ -252,8 +252,6 @@ next-pwa
 
 ---
 
-
-
 # 🧪 Race Condition Testing
 
 To test concurrent booking protection:
