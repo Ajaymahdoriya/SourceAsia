@@ -619,5 +619,4 @@ rather than building a basic frontend assignment.
 # 👨‍💻 Built By
 
 ## Ajay Mahdoriya
-
 Built for the **Source Asia Frontend Internship Technical Assignment — 2026**
